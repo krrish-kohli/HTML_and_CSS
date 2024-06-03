@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Exercise 4
+        </title>
+        <style>
+            body {
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-template-rows: auto 1fr auto;
+            }
+            header {
+                background-color: rgb(60, 57, 57);
+                color: white;
+                grid-column: 1/3;                
+                padding: 20px;
+            }
+            .main {
+                display: grid;
+                grid-template-columns: 70% 30%;
+                gap: 35px;
+            }
+            .c1 {
+                color: black;
+                background-color: white;
+                padding: 20px;
+                text-align: center;
+                padding-left: 10px;
+            }
+            .c2 {
+                color: black;
+                background-color: whitesmoke;
+                padding: 20px;
+                text-align: center;
+                padding-top: 30px;
+                padding-right: 40%;
+            }
+            footer {
+                background-color: rgb(60, 57, 57);
+                color: white;
+                grid-column: 1/3;
+                padding: 20px;
+            }
+        </style> 
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                Header
+            </header>
+            <div class="main">
+                <div class="c1">
+                    <h1>
+                        Blog Post Title
+                    </h1>
+                    <p>
+                        Content about the blog post goes here
+                    </p>
+                </div>
+                <div class="c2">
+                    <h2>
+                        Recent Posts
+                    </h2>
+                    <ul>
+                        <li>
+                            <a href="post1">Post 1</a>
+                        </li>
+                        <li>
+                            <a href="post2">Post 2</a>
+                        </li>
+                        <li>
+                            <a href="post3">Post 3</a>
+                        </li>
+                        <li>
+                            <a href="post4">Post 4</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>    
+            <footer>
+                Footer
+            </footer>    
+        </div>   
+    </body>
+</html>
