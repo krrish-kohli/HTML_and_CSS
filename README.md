@@ -4,7 +4,7 @@ This repository contains HTML files for several exercises designed to practice d
 
 ## Exercise 1: Basic Layout
 
-File: [`[exercise1.html](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%201.html)`](exercise1.html)
+File: [`exercise1.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%201.html)
 
 - **Description**: Demonstrates a simple webpage layout with a header, sidebar, main content area, and footer.
 - **Features**:
@@ -14,7 +14,7 @@ File: [`[exercise1.html](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%20
 
 ## Exercise 2: Three Column Layout
 
-File: [`exercise2.html`](exercise2.html)
+File: [`exercise2.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%202.html)
 
 - **Description**: Showcases a webpage layout with a header, left sidebar, main content area, and right sidebar.
 - **Features**:
@@ -24,7 +24,7 @@ File: [`exercise2.html`](exercise2.html)
 
 ## Exercise 3: Pricing Cards
 
-File: [`exercise3.html`](exercise3.html)
+File: [`exercise3.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%203.html)
 
 - **Description**: Features a pricing page layout with three pricing cards in a flex container.
 - **Features**:
@@ -34,7 +34,7 @@ File: [`exercise3.html`](exercise3.html)
 
 ## Exercise 4: Grid Layout
 
-File: [`exercise4.html`](exercise4.html)
+File: [`exercise4.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%204.html)
 
 - **Description**: Demonstrates a grid-based layout with a header, main content area with two sections, and a footer.
 - **Features**:
