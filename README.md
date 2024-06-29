@@ -4,7 +4,7 @@ This repository contains HTML files for several exercises designed to practice d
 
 ## Exercise 1: Basic Layout
 
-File: [`exercise1.html`](exercise1.html)
+File: [`[exercise1.html](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%201.html)`](exercise1.html)
 
 - **Description**: Demonstrates a simple webpage layout with a header, sidebar, main content area, and footer.
 - **Features**:
