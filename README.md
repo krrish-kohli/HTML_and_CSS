@@ -55,6 +55,18 @@ Folder: `Color Vocab Project`
   - Each color title is styled to match its color (e.g., "Rojo" appears in red).
   - Consistent font weight for color titles and image dimensions (200x200px) controlled through CSS.
 
+### Motivation Meme Project
+- **Files**:
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Motivation%20Meme%20Project/index.html)
+  - [`style.css`](https://krrish-kohli.github.io/HTML_and_CSS/Motivation%20Meme%20Project/style.css)
+- **Description**: A lighthearted motivational project that combines meme-style humor with motivational themes. It displays a bold, centered image and text to evoke that "meme magic" for a quick hit of inspiration.
+- **Features**:
+  - The main **headline** (`h1`) uses the elegant Libre Baskerville font from Google Fonts to add a touch of class.
+  - **White text on a black background** for a clean, meme-ready look.
+  - A center-aligned **image** bordered in white, giving it a standout frame reminiscent of classic meme images.
+  - **Centered layout** with all elements—including text and image—aligned for visual impact, and the headline in uppercase for extra emphasis.
+  - **Customizable message**: You can change the headline or image to match any motivational theme or personal message you want to convey.
+- This project is ideal for quick motivational posts or adding a bit of humor to any webpage. Just swap the text and image, and you’re ready to inspire!
 ---
 
 These exercises cover different aspects of HTML and CSS layout techniques, including floating elements, flexbox, and CSS grid. Each file is designed to showcase practical examples of creating structured and responsive web pages.
