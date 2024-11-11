@@ -42,6 +42,19 @@ File: [`exercise4.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%20
   - Grid layout for main content with two columns: blog post content and recent posts list.
   - Responsive design using CSS grid for flexible layout.
 
+## Color Vocab Project
+
+Folder: `Color Vocab Project`
+
+- **Description**: A simple educational page to learn color names in Spanish.
+- **Files**:
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Color%20Vocab%20Project/index.html)
+  - [`style.css`](https://krrish-kohli.github.io/HTML_and_CSS/Color%20Vocab%20Project/style.css)
+- **Features**:
+  - Displays color names in Spanish (e.g., "Rojo" for red) with corresponding images.
+  - Each color title is styled to match its color (e.g., "Rojo" appears in red).
+  - Consistent font weight for color titles and image dimensions (200x200px) controlled through CSS.
+
 ---
 
 These exercises cover different aspects of HTML and CSS layout techniques, including floating elements, flexbox, and CSS grid. Each file is designed to showcase practical examples of creating structured and responsive web pages.
