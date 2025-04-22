@@ -43,9 +43,6 @@ File: [`exercise4.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%20
   - Responsive design using CSS grid for flexible layout.
 
 ## Color Vocab Project
-
-Folder: `Color Vocab Project`
-
 - **Description**: A simple educational page to learn color names in Spanish.
 - **Files**:
   - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Color%20Vocab%20Project/index.html)
@@ -55,7 +52,7 @@ Folder: `Color Vocab Project`
   - Each color title is styled to match its color (e.g., "Rojo" appears in red).
   - Consistent font weight for color titles and image dimensions (200x200px) controlled through CSS.
 
-### Motivation Meme Project
+## Motivation Meme Project
 - **Files**:
   - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Motivation%20Meme%20Project/index.html)
   - [`style.css`](https://krrish-kohli.github.io/HTML_and_CSS/Motivation%20Meme%20Project/style.css)
