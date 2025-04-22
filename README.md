@@ -64,6 +64,51 @@ File: [`exercise4.html`](https://krrish-kohli.github.io/HTML_and_CSS/Exercise%20
   - **Centered layout** with all elements—including text and image—aligned for visual impact, and the headline in uppercase for extra emphasis.
   - **Customizable message**: You can change the headline or image to match any motivational theme or personal message you want to convey.
 - This project is ideal for quick motivational posts or adding a bit of humor to any webpage. Just swap the text and image, and you’re ready to inspire!
+
+## Box Model
+- **Description**:  
+This project focuses on learning and applying the CSS box model, which is fundamental to understanding layout and spacing in web design. The activity walks through the use of `div` containers, class and id selectors, and applying `margin`, `padding`, and `border` properties to structure a webpage.
+
+- **Learning Objectives**:
+  - Add `div` elements to group and style HTML content.
+  - Apply CSS rules using `margin`, `border`, and `padding` to update and control layout.
+  - Use class and id selectors to target specific elements for styling.
+  - Understand the CSS box model and its impact on webpage layout.
+  - Utilize shorthand properties to customize spacing on specific sides of an element.
+
+- **Files**:
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Box_Model/index.html)
+  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/Box_Model/styles.css)
+
+- **Features**:
+  - Structured layout using `div` containers.
+  - Header area with nested elements and applied styles.
+  - Customized buttons with hover effects using `cursor: pointer`.
+  - Responsive layout control via `width`, `margin`, and `padding`.
+  - Exploration of shorthand syntax for margin, padding, and border.
+
+
+## Selectors
+- **Description**:  
+This project introduces the basics of CSS selectors to control the appearance of HTML elements. The exercise focuses on how to target specific tags, classes, and ids for styling — giving precise control over layout and design.
+
+- **Learning Objectives**:
+  - Use basic CSS selectors to apply styles to elements.
+  - Differentiate between tag selectors, class selectors, and id selectors.
+  - Understand inline, internal, and external styles.
+  - Apply class and id selectors to structure list items (`ul`, `li`) and headings.
+
+- **Files**:
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/index.html)
+  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/styles.css)
+  - [`script.js`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/script.js)
+
+- **Features**:
+  - Inline styles for quick element-level customization (`h1` background-color set inline).
+  - Class selector `.dishes` applied to group related list items.
+  - Id selector `#favorite` used to highlight a specific list item.
+  - External CSS file linked for scalable, maintainable styling.
+
 ---
 
 These exercises cover different aspects of HTML and CSS layout techniques, including floating elements, flexbox, and CSS grid. Each file is designed to showcase practical examples of creating structured and responsive web pages.
