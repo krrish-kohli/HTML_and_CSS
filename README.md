@@ -77,8 +77,8 @@ This project focuses on learning and applying the CSS box model, which is fundam
   - Utilize shorthand properties to customize spacing on specific sides of an element.
 
 - **Files**:
-  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Box_Model/index.html)
-  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/Box_Model/styles.css)
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Box%20Model/index.html)
+  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/Box%20Model/styles.css)
 
 - **Features**:
   - Structured layout using `div` containers.
@@ -99,9 +99,9 @@ This project introduces the basics of CSS selectors to control the appearance of
   - Apply class and id selectors to structure list items (`ul`, `li`) and headings.
 
 - **Files**:
-  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/index.html)
-  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/styles.css)
-  - [`script.js`](https://krrish-kohli.github.io/HTML_and_CSS/Selectors/script.js)
+  - [`index.html`](https://krrish-kohli.github.io/HTML_and_CSS/selectors/index.html)
+  - [`styles.css`](https://krrish-kohli.github.io/HTML_and_CSS/selectors/styles.css)
+  - [`script.js`](https://krrish-kohli.github.io/HTML_and_CSS/selectors/script.js)
 
 - **Features**:
   - Inline styles for quick element-level customization (`h1` background-color set inline).
