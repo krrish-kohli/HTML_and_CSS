@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+.header {
+  padding: 10px;
+  padding-top: 100px;
+  margin-bottom: 75px;
+  margin: 10px;
+  text-align: center;
+}
+
+#header-img {
+  margin: 10px;
+}
+
+.header-button {
+  background-color: blue;
+  text-align: center;
+  font-size: 15px;
+  color: whitesmoke;
+  padding: 10px;
+  margin: 10px;
+  border: 10px;
+  cursor: pointer;
+}
+
+#header-left {
+  width: 75%;
+  padding-left: 5px;
+  padding-bottom: 50px;
+  margin-bottom: 25px;
+}
+
+#header-right {
+  width: 25%;
+  padding-right: 5px;
+  padding-bottom: 50px;
+  margin-right: 25px;
+}
